@@ -1,1 +1,1 @@
-# https://MikeChekhov.github.io/rsschool-cv/cv
+# https://MikeChekhov/rsschool-cv/cv
