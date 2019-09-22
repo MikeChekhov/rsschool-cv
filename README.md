@@ -1,1 +1,1 @@
-# https://MikeChekhov/rsschool-cv/cv
+# https://github.com/MikeChekhov/rsschool-cv/blob/gh-pages/cv.md
