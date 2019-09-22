@@ -1,1 +1,1 @@
-# https://MikeChekhov/rsschool-cv/cv
+# https://MikeChekhov/rschool-cv/cv
